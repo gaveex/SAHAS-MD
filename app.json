@@ -1,23 +1,23 @@
 {
-  "name": "SAHAS-MD",
-  "description": "Javascript WhatsApp bot made by Sahas Tech",
-  "logo": "https://telegra.ph/file/1e4ba22b080c8fd6134f2.jpg",
+  "name": "Gaiya x",
+  "description": "Javascript WhatsApp bot made by Gaiya x",
+  "logo": "https://ibb.co/3vqGFHv",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "8TUX1ZLR#eLwmbgOSylKvwkIAApC36VBzUcTWuPXlw3QGMYp7a8U",
       "required": true,
       "default": ""
     },
     "MONGODB": {
-      "description": "Put your MongoDB Database URL here.",
+      "description": "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
       "required": true,
       "default": ""
     },
     "PREFIX": {
-      "description": "Add Your Custom Prefix here.",
+      "description": ".",
       "required": true,
       "default": "."
     },
@@ -29,7 +29,7 @@
     "OWNER_NUMBER": {
       "description": "Owner Number",
       "required": true,
-      "default": "94718913389"
+      "default": "94779324979"
     },
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
@@ -37,14 +37,14 @@
       "default": ""
     },
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "Thank you for using 👨‍💻Gaiya Bot💗",
       "required": true,
       "default": ""
     },
     "AUTO_VOICE": {
       "description": "Auto voice feature (true/false)",
       "required": false,
-      "default": "false"
+      "default": "true"
     },
     "ANTI_BAD_WORDS_ENABLED": {
       "description": "Enable anti bad words (true/false)",
@@ -94,12 +94,12 @@
     "packname": {
       "description": "Pack name for your bot",
       "required": false,
-      "default": "SAHAS TECH"
+      "default": "Gaia"
     },
     "author": {
       "description": "Author name for your bot",
       "required": false,
-      "default": "SAHAS TECH"
+      "default": "Bot"
     },
     "OPENWEATHER_API_KEY": {
       "description": "API key for OpenWeather",
