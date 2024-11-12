@@ -62,7 +62,7 @@ _Thank you for using_ *👨‍💻Gaiya Bot💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029Varl86CK5cDJNUfAlH07
+*🖇️Join My WhatsApp Channel✓💗 - :* https://chat.whatsapp.com/K4PEuYaHw5wCoF8UE8cxb6
 
 *🖇️Subscribe My Youtube Channel✓💗 - :* https://www.youtube.com/@balalnakuta
 
